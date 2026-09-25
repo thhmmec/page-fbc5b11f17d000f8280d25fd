@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.taoqitujc.com/sitemap.xml
